@@ -1,6 +1,7 @@
 first line in the sample file
 second line in the same file
 third line in the same file
+fourth line in the same file
 
 
 public class HelloWorld {
